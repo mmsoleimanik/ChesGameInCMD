@@ -14,4 +14,4 @@ The list of nuts and their abbreviations:
 
 For playing you should to write an appropriate prompt in game:
 Prompt has two section.The first section determines what nut must to move.The first section consists of character and number.The second section determines the target.The first number refer to the row of target and second number refer to the column of target.
-For examle the prompt of "H0=>30" means the nut of "H0" should goig to the cell with the row of 3 and the column of 0;
+For examle the prompt of "H0=>30" means the nut of "H0" should goig to the cell with the row of 3 and the column of 0.
