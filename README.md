@@ -1,6 +1,6 @@
-# ches
-<img src="documents/HowPlay.gif">
+# chesGameCMD
 This game created by C++ and you can run it in powershell or CMD. There are two teams such as real game, but with a little difference: the black team has the color of blue because of CMD is black and black can create many visual problem in black background.
+<img src="documents/HowPlay.gif">
 
 ## How to play
 There is a board that update evry time.The white side is in the top of board and black side is in bottom and the first turn is for white side.
