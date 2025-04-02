@@ -26,7 +26,7 @@ The structure of this game is divided into two main parts: 1. Definition of the 
 All nuts definded as struct in C++. <br>
 In general, each nuts includes a number, a position, a color, and a function for checking the movements of the nuts. <br> <br>
 For example "horse":
-```
+```c++
 struct horse {
    int color;
    int place[2];
